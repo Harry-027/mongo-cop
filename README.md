@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Harry-027/mongo-cop.svg?branch=master)](https://travis-ci.com/Harry-027/mongo-cop)
+
 # mongo-cop
 
 ### The Problem
